@@ -17,6 +17,13 @@ pull -> Download changes from remote repo to your local mashine, the oppisite of
 
 status 
 
+branch -> show branches
+
+branch -d branchname -> delete branch 
+
+checkout -b branchname -> Create new branch 
+
+
 init -> Initiallize a repository locally 
 git init
 git remote add origin git@github.com:buus/dummy-repo
