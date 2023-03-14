@@ -34,4 +34,3 @@ git push
 git clone git@github.com:AndreasBuus/demo-repo.git
 
 cd demo-repo
-
