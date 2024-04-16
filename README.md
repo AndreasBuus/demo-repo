@@ -1,3 +1,5 @@
+## Repository to test git commands 
+
 # Git commands
 cd -> change directory
 - cd ../demo-repo
@@ -35,5 +37,4 @@ git clone git@github.com:AndreasBuus/demo-repo.git
 
 cd demo-repo
 
-## devolopment 
 
